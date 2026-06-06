@@ -1,5 +1,6 @@
 # EX-NO-7-Implement-DES-Encryption
-
+## NAME: Sukhmeet Kaur G
+## REG NO: 2305001032
 ## Aim:
 
 To use the Data Encryption Standard (DES) algorithm for a practical application, such as securing sensitive data transmission in financial transactions.
@@ -44,6 +45,7 @@ int main(){
 
 ## Output:
 
+<img width="457" height="150" alt="image" src="https://github.com/user-attachments/assets/9f2f0fd5-7f52-47bc-beb7-3476b4eee68b" />
 
 
 ## Result:
